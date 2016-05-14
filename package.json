@@ -1,8 +1,8 @@
 {
-  "name": "material-ui-build",
+  "name": "material-ui",
   "private": true,
   "author": "Call-em-all Engineering Team",
-  "version": "0.15.0",
+  "version": "0.15.0+custom",
   "description": "Material Design UI components built with React",
   "main": "./src/index.js",
   "keywords": [
